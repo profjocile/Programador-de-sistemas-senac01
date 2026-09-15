@@ -1,0 +1,7 @@
+Criando Documentação Markdown:
+
+Comece com um Arquivo .md: Crie um novo arquivo com a extensão .md. Este será o seu arquivo de documentação Markdown.
+
+Estrutura básica: Utilize cabeçalhos (#, ##, ###, etc.) para organizar seu conteúdo em seções e subseções. Utilize parágrafos (p) para o corpo do texto e listas (*, -, +) para enumerar itens.
+
+Formatação: Utilize recursos Markdown para formatar seu texto, como negrito (**texto**), itálico (_texto_), código (“código), e links (texto: link`).
