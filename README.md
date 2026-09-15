@@ -1,10 +1,10 @@
-# Aula 02 - Sistemas de Indormação
+# Aula 02 - Sistemas de Informação
 
 ## Definição de sistemas de informação; 
 
 Sistemas da informação são ...
 
-## Importância dos sistemas de informação nas organizações; 
+## Importância dos Sistemas de Informação nas organizações; 
 
 Liste as vantagens
 
